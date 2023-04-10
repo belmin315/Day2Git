@@ -14,6 +14,10 @@ public class Day2Demo {
 		
 		System.out.println("newchange");
 		
+		System.out.println("testest");
+		
+		System.out.println("testest");
+		
 	}
 
 }
